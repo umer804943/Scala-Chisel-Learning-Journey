@@ -1,0 +1,5 @@
+/*
+Hardware Difference Between MuxCase And MuxLookup
+hardware bigger of MuxCase then MuxLooup as it contains conditional statements.
+
+*/
